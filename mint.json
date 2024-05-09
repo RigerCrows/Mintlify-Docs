@@ -52,7 +52,7 @@
     {
       "group": "Başla",
       "pages": [
-        "introduction",
+        "index",
         "quickstart",
         "development"
       ]
