@@ -31,9 +31,9 @@
     {
       "group": "Eklentiler",
       "pages": [
+        "quickstart",
         "plugman",
         "introduction",
-        "quickstart",
         "development"
       ]
     },
