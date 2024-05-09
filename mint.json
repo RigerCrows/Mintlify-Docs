@@ -25,16 +25,11 @@
     "name": "Support",
     "url": "https://discord.gg/FPWbvnTVEu"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  "tabs": [],
   "anchors": [],
   "navigation": [
     {
-      "group": "Başla",
+      "group": "Eklentiler",
       "pages": [
         "introduction",
         "quickstart",
