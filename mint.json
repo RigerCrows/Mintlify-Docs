@@ -31,7 +31,7 @@
     {
       "group": "Eklentiler",
       "pages": [
-        "quickstart",
+        "anasayfa",
         "plugman",
         "introduction",
         "development"
